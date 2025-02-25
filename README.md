@@ -24,9 +24,9 @@ Based on various meteorological surveys and people's styles, the service provide
   Build a model to predict the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the 
   demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. 
   Further, the model will be a good way for management to understand the demand dynamics of a new market.
-      - **Inventory Management**: The company can use this information to adjust its bike inventory based on the expected demand during different periods.
-      - **Marketing Strategies**: Targeted marketing campaigns can be launched to boost rentals during periods of lower demand.
-      - **Operational Planning**: Staffing and maintenance schedules can be optimized based on the anticipated rental volumes.
+  - **Inventory Management**: The company can use this information to adjust its bike inventory based on the expected demand during different periods.
+  - **Marketing Strategies**: Targeted marketing campaigns can be launched to boost rentals during periods of lower demand.
+  - **Operational Planning**: Staffing and maintenance schedules can be optimized based on the anticipated rental volumes.
 
   ### Approach
   Company is concerned and wants to understand the factors affecting the demand for shared bikes. This is a regression problem, since we are trying to predict a 
